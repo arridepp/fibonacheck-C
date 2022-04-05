@@ -1,7 +1,9 @@
 # FibonaCheck C
 
 C Program to Display Fibonacci Sequence
+
 In this example, you will learn to display the Fibonacci sequence of first n numbers (entered by the user).
+
 
 To understand this example, you should have the knowledge of the following C programming topics:
 
